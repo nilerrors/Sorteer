@@ -1,0 +1,13 @@
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\obj\Debug\Sorteer.vbproj.AssemblyReference.cache
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\obj\Debug\Sorteer.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\obj\Debug\Sorteer.MainForm.resources
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\obj\Debug\Sorteer.Resources.resources
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\obj\Debug\Sorteer.vbproj.GenerateResource.cache
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\obj\Debug\Sorteer.vbproj.CoreCompileInputs.cache
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\bin\Debug\Sorteer.exe.config
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\bin\Debug\Sorteer.exe
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\bin\Debug\Sorteer.pdb
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\bin\Debug\Sorteer.xml
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\obj\Debug\Sorteer.exe
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\obj\Debug\Sorteer.xml
+C:\Users\Sabawoon\Desktop\Sorteer\Sorteer\obj\Debug\Sorteer.pdb
