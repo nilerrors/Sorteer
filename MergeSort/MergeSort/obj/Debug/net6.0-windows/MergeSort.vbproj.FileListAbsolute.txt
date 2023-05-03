@@ -1,0 +1,17 @@
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\bin\Debug\net6.0-windows\MergeSort.exe
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\bin\Debug\net6.0-windows\MergeSort.deps.json
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\bin\Debug\net6.0-windows\MergeSort.runtimeconfig.json
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\bin\Debug\net6.0-windows\MergeSort.dll
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\bin\Debug\net6.0-windows\MergeSort.pdb
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\MergeSort.vbproj.AssemblyReference.cache
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\MergeSort.Form1.resources
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\MergeSort.vbproj.GenerateResource.cache
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\MergeSort.AssemblyInfoInputs.cache
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\MergeSort.AssemblyInfo.vb
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\MergeSort.vbproj.CoreCompileInputs.cache
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\MergeSort.dll
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\refint\MergeSort.dll
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\MergeSort.pdb
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\MergeSort.genruntimeconfig.cache
+C:\Users\21078\Desktop\VBSorteer\MergeSort\MergeSort\obj\Debug\net6.0-windows\ref\MergeSort.dll

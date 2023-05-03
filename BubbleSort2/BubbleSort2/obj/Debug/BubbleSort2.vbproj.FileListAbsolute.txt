@@ -1,0 +1,13 @@
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\obj\Debug\BubbleSort2.vbproj.AssemblyReference.cache
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\obj\Debug\BubbleSort2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\obj\Debug\BubbleSort2.MainForm.resources
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\obj\Debug\BubbleSort2.Resources.resources
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\obj\Debug\BubbleSort2.vbproj.GenerateResource.cache
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\obj\Debug\BubbleSort2.vbproj.CoreCompileInputs.cache
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\bin\Debug\BubbleSort2.exe.config
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\bin\Debug\BubbleSort2.exe
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\bin\Debug\BubbleSort2.pdb
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\bin\Debug\BubbleSort2.xml
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\obj\Debug\BubbleSort2.exe
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\obj\Debug\BubbleSort2.xml
+C:\Users\21078\Desktop\VBSorteer\BubbleSort2\BubbleSort2\obj\Debug\BubbleSort2.pdb

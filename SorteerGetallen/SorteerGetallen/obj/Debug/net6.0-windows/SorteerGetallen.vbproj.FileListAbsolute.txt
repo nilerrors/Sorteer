@@ -1,0 +1,17 @@
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\bin\Debug\net6.0-windows\SorteerGetallen.exe
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\bin\Debug\net6.0-windows\SorteerGetallen.deps.json
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\bin\Debug\net6.0-windows\SorteerGetallen.runtimeconfig.json
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\bin\Debug\net6.0-windows\SorteerGetallen.dll
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\bin\Debug\net6.0-windows\SorteerGetallen.pdb
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\SorteerGetallen.vbproj.AssemblyReference.cache
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\SorteerGetallen.Form1.resources
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\SorteerGetallen.vbproj.GenerateResource.cache
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\SorteerGetallen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\SorteerGetallen.AssemblyInfoInputs.cache
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\SorteerGetallen.AssemblyInfo.vb
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\SorteerGetallen.vbproj.CoreCompileInputs.cache
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\SorteerGetallen.dll
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\refint\SorteerGetallen.dll
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\SorteerGetallen.pdb
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\SorteerGetallen.genruntimeconfig.cache
+C:\Users\21078\Desktop\SorteerGetallen\SorteerGetallen\obj\Debug\net6.0-windows\ref\SorteerGetallen.dll
